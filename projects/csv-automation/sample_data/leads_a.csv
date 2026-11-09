@@ -1,0 +1,6 @@
+name,email,phone,source,city
+anna koval,anna.koval@example.com,+380 67 111 22 33,landing,Kyiv
+Bohdan Melnyk,BOHDAN.MELNYK@EXAMPLE.COM,067-222-33-44,ads,Lviv
+anna koval,anna.koval@example.com,380671112233,ads,Kyiv
+,bad-email,0990000000,form,
+Ira Sydorenko,ira.sydorenko@example.com,,organic,Odesa

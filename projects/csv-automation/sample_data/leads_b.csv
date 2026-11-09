@@ -1,0 +1,4 @@
+name,email,phone,source,city
+Bohdan Melnyk,bohdan.melnyk@example.com,+380672223344,webinar,Lviv
+Taras Shevchenko,taras.demo@example.com,+1 (202) 555-0199,partner,Washington
+Empty Row,,,,
